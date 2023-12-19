@@ -3,6 +3,8 @@
 
 # 关于运行计划
 1. 设置登录后启动、按时启动等 2. 设置启动失败后的重复启动次数 3. 如有必要，可以设置延迟启动 4. 确保计划可以成功运行
+5. 相关设置的选项：a. Run only when user is logged on b. Run with highest privileges c. Configure for Win10 d. 确保脚本有足够的运行权限
+
 
 # window10取消自动登录
 
